@@ -12,4 +12,8 @@ public class App
 	sysout("I'm main ");
 	sysout("I'm slave");
     }
+//122-BUG
+public bug122(){
+
+	}
 }
