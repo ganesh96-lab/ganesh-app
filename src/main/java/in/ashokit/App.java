@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World! welcome pune in india" );
 	sysout("I'm main ");
+	sysout("I'm slave");
     }
 }
